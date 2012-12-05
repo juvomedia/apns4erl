@@ -2,7 +2,7 @@
 # variable FW_PACKAGE_DEFAULT_MAINTAINER if non-empty at init time
 
 FW_PACKAGE_NAME="apns4erl"
-FW_PACKAGE_VERSION="0.20121204.0"
+FW_PACKAGE_VERSION="0.20121204.1"
 FW_PACKAGE_MAINTAINER="<engineering@loveit.com>"
 FW_PACKAGE_SHORT_DESCRIPTION="Apple Push Notification Service for Erlang"
 FW_PACKAGE_DESCRIPTION=`cat README`
